@@ -78,11 +78,3 @@ Boat      1    End of ride for visitor   1 (ride time = 25)
 Visitor   1    Leaving
 ...
 ```
-
-## Assignment Specification
-
-See `LA7.pdf` for the original assignment description and requirements.
-
-## License
-
-This project is provided for educational purposes. Please review `LA7.pdf` for any specific usage restrictions or attribution requirements.
