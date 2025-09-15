@@ -16,7 +16,6 @@ This repository implements a multithreaded simulation of a visitor-boat system u
 - `boating.c` - Main simulation logic, including visitor and boat thread functions.
 - `semaphore.h` / `semaphore.c` - Custom semaphore structure and operations.
 - `Makefile` - Build and run instructions.
-- `LA7.pdf` - Assignment or project specification (for reference).
 
 ## How It Works
 
